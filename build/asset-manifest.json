@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactcardgame/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reactcardgame/static/js/main.d76cde02.chunk.js",
+    "main.js.map": "/reactcardgame/static/js/main.d76cde02.chunk.js.map",
+    "runtime-main.js": "/reactcardgame/static/js/runtime-main.17eef323.js",
+    "runtime-main.js.map": "/reactcardgame/static/js/runtime-main.17eef323.js.map",
+    "static/js/2.fb2272af.chunk.js": "/reactcardgame/static/js/2.fb2272af.chunk.js",
+    "static/js/2.fb2272af.chunk.js.map": "/reactcardgame/static/js/2.fb2272af.chunk.js.map",
+    "index.html": "/reactcardgame/index.html",
+    "precache-manifest.702501ea5f9fcc22d20168b864a8167c.js": "/reactcardgame/precache-manifest.702501ea5f9fcc22d20168b864a8167c.js",
+    "service-worker.js": "/reactcardgame/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reactcardgame/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fb2272af.chunk.js.LICENSE.txt": "/reactcardgame/static/js/2.fb2272af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17eef323.js",
+    "static/js/2.fb2272af.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d76cde02.chunk.js"
+  ]
+}

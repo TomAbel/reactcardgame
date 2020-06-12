@@ -23,19 +23,19 @@ const compareValues = ({previousCardValue, currentCardValue, bet}) => {
     }
 
     if(bet === "up" && previousCardValueIndex > currentCardValueIndex) {
-        return 'Lose'
+        return 'lose!'
     }
     if(bet === "up" && previousCardValueIndex < currentCardValueIndex) {
-        return 'Win'
+        return 'win!'
     }
     if(bet === "down" && previousCardValueIndex < currentCardValueIndex) {
-        return 'Lose'
+        return 'lose!'
     }
     if(bet === "down" && previousCardValueIndex > currentCardValueIndex) {
-        return 'Win'
+        return 'win!'
     }
     if(previousCardValueIndex === currentCardValueIndex) {
-        return 'Tie'
+        return 'tie!'
     }
 };
 

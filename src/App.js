@@ -6,8 +6,10 @@ import CardGameBoard from "./CardGameBoard";
 
 const App = () => (
 	<div className="App">
-		<Header>This is a cool card game</Header>
+		<Header>
+			Bet up or down on the next card's value</Header>
 		<Layout>
+
 			<CardGameBoard></CardGameBoard>
 		</Layout>
 	</div>

@@ -10,4 +10,4 @@ Bet on the upcoming card with down/up corresponding the value of the card.
 
 Have fun
 
--Tom
+Tom
